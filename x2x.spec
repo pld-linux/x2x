@@ -1,5 +1,5 @@
 Summary:	Link two X displays together, simulating a multiheaded display
-Summary(pl):	£±czy ze soba dwa wy¶wietlacze X, udaj±c wielowy¶wietlaczowy ekran
+Summary(pl):	£±czy ze sob± dwa wy¶wietlacze X, udaj±c wieloekranowy wy¶wietlacz
 Name:		x2x
 Version:	1.30
 Release:	1
@@ -21,13 +21,13 @@ propagates around. At least one of the displays involved
 XTEST extension.
 
 %description -l pl
-x2x ³±czy ze sob± parê wy¶wietlaczy X, tak jakby by³y pojedyñczym
+x2x ³±czy ze sob± parê wy¶wietlaczy X, tak jakby by³y pojedynczym
 wieloekranowym wy¶wietlaczem. Wska¼nik mo¿e siê przesuwaæ pomiêdzy
-wy¶wietlaczami, lub w zale¿no¶ci gdzie uruchomiono x2x mo¿e
-przeskoczyæ z jednego wy¶wietlacza na drugi gdy dojdzie do brzegu
+wy¶wietlaczami, lub w zale¿no¶ci gdzie uruchomiono x2x, mo¿e
+przeskoczyæ z jednego wy¶wietlacza na drugi, gdy dojdzie do brzegu
 ekranu. Wska¼nik klawiatury mo¿e siê tak¿e prze³±czaæ miêdzy
 wy¶wietlaczami w przewidywalny sposób. Co najmniej jeden z
-wy¶wietlaczy(konkretniej zdalnie kierowany) musi obs³ugiwaæ
+wy¶wietlaczy (konkretniej, zdalnie kierowany) musi obs³ugiwaæ
 rozszerzenie XTEST.
 
 %prep
