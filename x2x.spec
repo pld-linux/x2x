@@ -1,5 +1,5 @@
 Summary:	Link two X displays together, simulating a multiheaded display
-Summary(pl.UTF-8):   Łączy ze sobą dwa wyświetlacze X, udając wieloekranowy wyświetlacz
+Summary(pl.UTF-8):	Łączy ze sobą dwa wyświetlacze X, udając wieloekranowy wyświetlacz
 Name:		x2x
 Version:	1.30
 Release:	1
