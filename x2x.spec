@@ -1,5 +1,5 @@
 Summary:	Link two X displays together, simulating a multiheaded display
-Summary(pl):	£±czy ze sob± dwa wy¶wietlacze X, udaj±c wieloekranowy wy¶wietlacz
+Summary(pl.UTF-8):   ÅÄ…czy ze sobÄ… dwa wyÅ›wietlacze X, udajÄ…c wieloekranowy wyÅ›wietlacz
 Name:		x2x
 Version:	1.30
 Release:	1
@@ -20,14 +20,14 @@ propagates around. At least one of the displays involved
 (specifically, the one being controlled remotely) must support the
 XTEST extension.
 
-%description -l pl
-x2x ³±czy ze sob± parê wy¶wietlaczy X, tak jakby by³y pojedynczym
-wieloekranowym wy¶wietlaczem. Wska¼nik mo¿e siê przesuwaæ pomiêdzy
-wy¶wietlaczami, lub w zale¿no¶ci gdzie uruchomiono x2x, mo¿e
-przeskoczyæ z jednego wy¶wietlacza na drugi, gdy dojdzie do brzegu
-ekranu. Wska¼nik klawiatury mo¿e siê tak¿e prze³±czaæ miêdzy
-wy¶wietlaczami w przewidywalny sposób. Co najmniej jeden z
-wy¶wietlaczy (konkretniej, zdalnie kierowany) musi obs³ugiwaæ
+%description -l pl.UTF-8
+x2x Å‚Ä…czy ze sobÄ… parÄ™ wyÅ›wietlaczy X, tak jakby byÅ‚y pojedynczym
+wieloekranowym wyÅ›wietlaczem. WskaÅºnik moÅ¼e siÄ™ przesuwaÄ‡ pomiÄ™dzy
+wyÅ›wietlaczami, lub w zaleÅ¼noÅ›ci gdzie uruchomiono x2x, moÅ¼e
+przeskoczyÄ‡ z jednego wyÅ›wietlacza na drugi, gdy dojdzie do brzegu
+ekranu. WskaÅºnik klawiatury moÅ¼e siÄ™ takÅ¼e przeÅ‚Ä…czaÄ‡ miÄ™dzy
+wyÅ›wietlaczami w przewidywalny sposÃ³b. Co najmniej jeden z
+wyÅ›wietlaczy (konkretniej, zdalnie kierowany) musi obsÅ‚ugiwaÄ‡
 rozszerzenie XTEST.
 
 %prep
