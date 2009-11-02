@@ -3,11 +3,12 @@ Summary(pl.UTF-8):	Łączy ze sobą dwa wyświetlacze X, udając wieloekranowy w
 Name:		x2x
 Version:	1.30
 Release:	1
-License:	BSD
+License:	MIT
 Group:		X11/Applications/Networking
 Source0:	http://www.odsd.org/x2x/%{name}-%{version}-beta.tar.gz
 # Source0-md5:	af4aa7d73123b94489558029f910fbed
 BuildRequires:	XFree86-devel
+BuildRequires:	xorg-cf-files
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
